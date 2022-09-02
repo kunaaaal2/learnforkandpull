@@ -1,2 +1,6 @@
 putting meetind
-hello learning pull and fork
+hello learning pull and for
+i am kunal singh rajput
+i am software engg 
+i have learned angular java mysql and now currently i am learning devops
+
